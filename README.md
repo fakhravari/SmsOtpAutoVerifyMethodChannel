@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/7a223ca9-d1a6-4b77-8990-06a00db177f9
 
-## First Step AndroidManifest
+## 1) AndroidManifest
 
 Set package Name
 <br />
@@ -11,12 +11,12 @@ Set package Name
 <uses-permission android:name="android.permission.READ_SMS" />
 ```
 
-## Second Step kotlin
+## 2) kotlin
 ```csharp
 MainActivity.kt
 SmsReceiver.kt
 ```
-## For Example
+## 3) For Example
 ```csharp
 Your OTP code is 123456. Do not share it with anyone
 Use 654321 as your verification code
