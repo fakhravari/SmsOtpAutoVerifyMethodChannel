@@ -6,9 +6,8 @@ https://github.com/user-attachments/assets/7a223ca9-d1a6-4b77-8990-06a00db177f9
 
 Set package Name
 <br />
-<uses-permission android:name="android.permission.RECEIVE_SMS" />
-<br />
-<uses-permission android:name="android.permission.READ_SMS" />
+```<uses-permission android:name="android.permission.RECEIVE_SMS" />
+<uses-permission android:name="android.permission.READ_SMS" />```
 
 ## Second Step kotlin
 MainActivity.kt
