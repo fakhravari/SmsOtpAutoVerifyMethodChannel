@@ -2,6 +2,9 @@
 
 Flutter OTP SMS MethodChannel
 
+https://github.com/user-attachments/assets/7a223ca9-d1a6-4b77-8990-06a00db177f9
+
+
 ## Getting Started
 
 Dependencies:<br />
@@ -24,7 +27,7 @@ SmsReceiver.kt
 
 <br />
 
-![Flutter Localizations L10n](https://user-images.githubusercontent.com/4311975/235844101-d632f897-c34e-4fb3-9af4-aadc89d53547.gif)
+ 
 
 ## For Example
 
