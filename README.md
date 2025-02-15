@@ -14,15 +14,13 @@ Set package Name
 ## Second Step kotlin
 ```csharp
 MainActivity.kt
-<br />
 SmsReceiver.kt
 ```
 ## For Example
 ```csharp
 Your OTP code is 123456. Do not share it with anyone
-<br />
 Use 654321 as your verification code
-<br />کد تأیید شما: 9874. لطفاً آن را با کسی به اشتراک نگذارید
+کد تأیید شما: 9874. لطفاً آن را با کسی به اشتراک نگذارید
 ```
 ## WebSite
 
